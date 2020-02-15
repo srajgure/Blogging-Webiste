@@ -1,0 +1,39 @@
+/* --------------------------------------
+@Author: ThemeMascot
+@URL: http://themeforest.net/user/ThemeMascot
+----------------------------------------- */
+/*
+ * rtl.less
+ * -----------------------------------------------
+*/
+html[dir="rtl"] .icon-box.left a {
+  margin-left: 0px;
+  margin-right: 0;
+}
+html[dir="rtl"] .attorney .content {
+  padding-right: 30px;
+}
+html[dir="rtl"] .section-title.title-border {
+  border-left: 0;
+  border-right: 4px solid #bf9e58;
+}
+html[dir="rtl"] .panel-group .panel-title a::after {
+  left: auto;
+}
+html[dir="rtl"] .boxed-layout .header {
+  margin-left: 0;
+  margin-right: 0;
+}
+html[dir="rtl"] .blog-posts .post .entry-content .post-date.right {
+  right: auto;
+}
+html[dir="rtl"] .checkbox input[type="checkbox"],
+html[dir="rtl"] .checkbox-inline input[type="checkbox"],
+html[dir="rtl"] .radio input[type="radio"],
+html[dir="rtl"] .radio-inline input[type="radio"] {
+  margin-right: -20px;
+}
+html[dir="rtl"] .checkbox-inline,
+html[dir="rtl"] .radio-inline {
+  padding-right: 20px;
+}

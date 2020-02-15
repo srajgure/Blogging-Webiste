@@ -1,0 +1,71 @@
+[02-Oct-2018 06:52:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 260
+[02-Oct-2018 06:52:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 260
+[02-Oct-2018 07:50:32 Etc/GMT] PHP Notice:  Undefined index: image in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 27
+[02-Oct-2018 07:50:32 Etc/GMT] PHP Notice:  Undefined index: userImage in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 28
+[02-Oct-2018 07:50:32 Etc/GMT] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 28
+[02-Oct-2018 07:50:32 Etc/GMT] PHP Notice:  Undefined index: userImage in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 29
+[02-Oct-2018 07:50:32 Etc/GMT] PHP Warning:  getimagesize(): Filename cannot be empty in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 29
+[02-Oct-2018 07:50:32 Etc/GMT] PHP Notice:  Undefined variable: name in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 31
+[02-Oct-2018 07:50:32 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'globappq'@'localhost' (using password: NO) in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 07:50:32 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 07:51:30 Etc/GMT] PHP Notice:  Undefined index: image in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 27
+[02-Oct-2018 07:51:30 Etc/GMT] PHP Notice:  Undefined index: userImage in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 28
+[02-Oct-2018 07:51:30 Etc/GMT] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 28
+[02-Oct-2018 07:51:30 Etc/GMT] PHP Notice:  Undefined index: userImage in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 29
+[02-Oct-2018 07:51:30 Etc/GMT] PHP Warning:  getimagesize(): Filename cannot be empty in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 29
+[02-Oct-2018 07:51:30 Etc/GMT] PHP Notice:  Undefined variable: name in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 31
+[02-Oct-2018 07:51:30 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 07:51:30 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'globappq'@'localhost' (using password: NO) in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 07:51:30 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 08:12:38 Etc/GMT] PHP Notice:  Undefined index: userImage in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 28
+[02-Oct-2018 08:12:38 Etc/GMT] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 28
+[02-Oct-2018 08:12:38 Etc/GMT] PHP Notice:  Undefined index: userImage in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 29
+[02-Oct-2018 08:12:38 Etc/GMT] PHP Warning:  getimagesize(): Filename cannot be empty in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 29
+[02-Oct-2018 08:12:38 Etc/GMT] PHP Notice:  Undefined variable: name in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 31
+[02-Oct-2018 08:12:38 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 08:12:38 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'globappq'@'localhost' (using password: NO) in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 08:12:38 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 08:13:25 Etc/GMT] PHP Notice:  Undefined index: userImage in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 28
+[02-Oct-2018 08:13:25 Etc/GMT] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 28
+[02-Oct-2018 08:13:25 Etc/GMT] PHP Notice:  Undefined index: userImage in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 29
+[02-Oct-2018 08:13:25 Etc/GMT] PHP Warning:  getimagesize(): Filename cannot be empty in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 29
+[02-Oct-2018 08:13:25 Etc/GMT] PHP Notice:  Undefined variable: name in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 31
+[02-Oct-2018 08:13:25 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 08:13:25 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'globappq'@'localhost' (using password: NO) in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 08:13:25 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 08:22:59 Etc/GMT] PHP Parse error:  syntax error, unexpected 'mime' (T_STRING) in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 08:23:01 Etc/GMT] PHP Parse error:  syntax error, unexpected 'mime' (T_STRING) in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 08:23:04 Etc/GMT] PHP Parse error:  syntax error, unexpected 'mime' (T_STRING) in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 08:23:11 Etc/GMT] PHP Parse error:  syntax error, unexpected 'mime' (T_STRING) in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 08:23:26 Etc/GMT] PHP Parse error:  syntax error, unexpected 'mime' (T_STRING) in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 08:24:47 Etc/GMT] PHP Parse error:  syntax error, unexpected 'mime' (T_STRING) in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 08:25:32 Etc/GMT] PHP Parse error:  syntax error, unexpected 'mime' (T_STRING) in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 08:25:49 Etc/GMT] PHP Parse error:  syntax error, unexpected 'mime' (T_STRING) in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 09:25:23 Etc/GMT] PHP Parse error:  syntax error, unexpected 'mime' (T_STRING) in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 09:25:28 Etc/GMT] PHP Parse error:  syntax error, unexpected 'mime' (T_STRING) in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 32
+[02-Oct-2018 10:45:06 Etc/GMT] PHP Notice:  Undefined index: image in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 10:53:32 Etc/GMT] PHP Notice:  Undefined index: image in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 10:57:52 Etc/GMT] PHP Notice:  Undefined index: image in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 11:01:03 Etc/GMT] PHP Notice:  Undefined index: image in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 11:10:00 Etc/GMT] PHP Notice:  Undefined index: image in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 11:10:00 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 11
+[02-Oct-2018 11:10:00 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 31
+[02-Oct-2018 11:11:59 Etc/GMT] PHP Notice:  Undefined index: image in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 11:11:59 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 11
+[02-Oct-2018 11:11:59 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 31
+[02-Oct-2018 11:14:17 Etc/GMT] PHP Notice:  Undefined index: image in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 11:18:03 Etc/GMT] PHP Notice:  Undefined index: image in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 11:21:12 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 11:24:34 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 11:25:01 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 11:25:53 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 11:27:29 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 11:30:54 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 11:31:41 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 8
+[02-Oct-2018 11:36:55 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 10
+[02-Oct-2018 11:37:18 Etc/GMT] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 49
+[02-Oct-2018 11:37:51 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 10
+[02-Oct-2018 11:40:45 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 10
+[02-Oct-2018 11:46:51 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 10
+[02-Oct-2018 11:46:51 Etc/GMT] PHP Notice:  Undefined variable: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 45
+[02-Oct-2018 11:50:03 Etc/GMT] PHP Notice:  Undefined variable: fileToUpload in /home/globappq/public_html/gsered.com/blog_system/gse_pdo/admin/add.php on line 45
